@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexey.
+  
+- 💳 Expert in support of card and payment systems  
+- 📊 Data Analyst
+  
+I currently live in Turkey.
 
-<!--
-**AlexVarnik/alexvarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am considering vacancies in the field of data analysis, preferably related to the payment business and bank cards.
+ 
+### Connect with me:
+[<img align="left" alt="alex_varnik | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[telegram]: https://t.me/alexvarnik
