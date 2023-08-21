@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Alexey.
   
-- 💳 Expert in support of card and payment systems  
 - 📊 Data Analyst
+- 💳 Expert in support of card and payment systems  
+
   
 I currently live in Turkey.
 
