@@ -4,7 +4,7 @@
 - 💳 Expert in support of card and payment systems  
 
   
-I currently live in Turkey.
+I currently live in Belgrade, Serbia.
 
 I am considering vacancies in the field of data analysis, preferably related to the payment business and bank cards.
  
